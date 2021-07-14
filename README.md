@@ -19,4 +19,4 @@ The **Book Template** empowers you to create **product documentation**, **digita
 
 To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
 
-Dr. Francois Nguyen
+## Dr. Francois Nguyen
